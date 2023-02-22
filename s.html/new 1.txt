@@ -1,0 +1,21 @@
+<html>
+<head>
+<!--head has only 5 tags-->
+<!--tittle,meta,link,style,script-->
+<tittle>First web Document</tittle>
+</head>
+<body>
+<nav>
+<image src="./logo.png"alt="silk house"/>
+<a herf="./index.html">weaver<a/>
+<a herf="./about.html">silk<a/>
+<a herf="./service.html">jari<a/>
+<a herf="./price.html">dhani<a/>
+<a herf="./contact.html"target="-blank">contact<a/>
+<a herf="./login.html">login<a/>
+<nav>
+<div>
+<h1> contact page</h1>
+</div>
+</body>
+</html>
